@@ -1,1 +1,1 @@
-![](github-metrics.svg)
+[](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=noaether&branding=false&style=--bg-color%3A%231c1e22%3B--header-bg-color%3A%235c5d5f%3B--header-text-color%3A%23fff%3B--badge-bg-color%3A%232d2e31%3B--badge-box-shadow%3A0px1px2pxrgba(255%2C255%2C255%2C0.3)%3B--badge-text-color%3A%23fff%3B)
